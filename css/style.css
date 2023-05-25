@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+body{
+    margin: px;
+}
+#img_redonda{
+    height: 512;
+    height: 200px; 
+    border-radius:50% ;
+  
+}
+img{
+    width: 200px;
+}
