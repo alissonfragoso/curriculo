@@ -77,8 +77,8 @@ body {
 .social-links .linkedin {
   --color: #0077b5;
 }
-.social-links .twitter {
-  --color: #0f9bf2;
+.social-links .site {
+  --color: #061620;
 }
 
 .social-links > a {
